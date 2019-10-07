@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74b204f7-5a1d-4d90-afcd-9a6aad40b663" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java/src/test/java/com/codewars/NextBiggerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/test/java/com/codewars/NextBiggerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/test/java/com/codewars/NextSmallerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/test/java/com/codewars/NextSmallerTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="74b204f7-5a1d-4d90-afcd-9a6aad40b663" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,16 +223,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570441781274</updated>
-      <workItem from="1570441784920" duration="481000" />
+      <workItem from="1570441784920" duration="703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="481000" />
+    <option name="totallyTimeSpent" value="703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="835" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
