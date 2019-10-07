@@ -6,7 +6,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 
-public class NextSmaller {
+public class NextSmallerWithSameDigits {
 
     public static long nextSmaller(long n)
     {

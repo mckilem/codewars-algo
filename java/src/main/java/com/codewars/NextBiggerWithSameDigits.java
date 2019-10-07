@@ -2,7 +2,7 @@ package com.codewars;
 
 import java.util.Arrays;
 
-public class NextBigger {
+public class NextBiggerWithSameDigits {
 
     // Utility function to swap two digit
     static void swap(char ar[], int i, int j)
